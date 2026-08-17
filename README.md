@@ -13,4 +13,4 @@ The component structure was designed with modularity in mind, allowing this to b
 * **Full Name:** Surafel Wasihun
 * **Email:** surafelwasihun1324@gmail.com
 * **Section:** [B]
-* **ID:** [FW 9626]# contact-card-component
+* **ID:** [FW 9626]
